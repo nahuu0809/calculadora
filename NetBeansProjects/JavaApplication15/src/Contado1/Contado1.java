@@ -1,15 +1,9 @@
 
-package javaapplication15;
+package Contado1;
 
 import java.util.Scanner;
 
-public class JavaApplication15 {
-
-    /**
-     *
-     * @param args
-     * @return
-     */
+public class Contado1 {
     public static void main(String[] args) {
 
     int min, max;
